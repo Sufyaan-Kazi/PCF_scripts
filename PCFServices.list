@@ -1,0 +1,3 @@
+# Add services here in format
+# servicename plane ervice_instance_name
+p-rabbitmq standard SufRabbit
